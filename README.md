@@ -7,7 +7,7 @@
     padding-left: 50%;
 ">~ Oscar Wilde</em>
   <div>
-    <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width=80% height=60%>
+    <img src="https://giffiles.alphacoders.com/173/173853.gif" width=60% >
   </div>
   
 
