@@ -49,7 +49,7 @@
     <img align="left" alt="Gmail logo" width="34px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
   
-  <a href="https://www.instagram.com/hi_man_shu_sharma/">
+  <a href="https://www.instagram.com/himnshu___/">
     <img align="left" alt="Instagram Logo" width="34px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
   
