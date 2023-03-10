@@ -6,8 +6,8 @@
  <em style="
     padding-left: 50%;
 "></em>
-  <div>
-    <img src="https://www.careerguide.com/career/wp-content/uploads/2021/08/Full-Stack-Developer-1.gif" width=100% height=50%>
+  <div align="center">
+    <img  src="https://www.careerguide.com/career/wp-content/uploads/2021/08/Full-Stack-Developer-1.gif" width=40% height=50%>
   </div>
   
 
